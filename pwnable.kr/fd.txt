@@ -1,0 +1,3 @@
+fprintf(메모리상파일 지정=fd[첫번째인자])
+why?
+0,1,2 는 stdin(입력), stdout(출력), stderr(에러) 로 고정되어있음. (fd 문제 힌트)
